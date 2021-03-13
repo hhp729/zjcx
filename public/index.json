@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "Swiper": [
+        {
+          "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571827295379&di=41f33a42bc3f2b16860a0cc21d4313bd&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb636d87a187ba538c12208f974a16e94bea96e9ba8fe-SO9FQg_fw658"
+        },
+        {
+          "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571827151289&di=a6b52eb0fe3bcfe0a6423a5a9d3a8cb3&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0168105b74d7eba80120d8c0ec40ee.jpg%401280w_1l_2o_100sh.jpg"
+        }
+      ],
+      "Broadcasting": "品质生活 , 智慧出行 ,  现为测试版本 , 正式版本 ，敬请期待 ！",
+      "advertising": "http://hbimg.b0.upaiyun.com/c6210fe1af40f55f0d3c083e603b79fc6f1282a97dfde-QhqySt_fw658",
+      "Service": [
+        {
+          "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571829226735&di=9e1b0db068b8cd932bff247fee705504&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2F4d456696d95034fdd94b92d8d56dc0b5_b.jpg"
+        }
+      ],
+      "ServiceTitle": "品质生活，智慧出行",
+      "ServiceContent": [
+        {
+          "id": "1",
+          "name": "城市公交车票价季节性调整",
+          "data": "2019年10月10号",
+          "title": "· 10月10日起，城市公交车票价季节性上调。公交5路，6路的聚个偶偶绝对是骄傲",
+          "content": "10月10日起，城市公交车票价实施季节性上调。公交5路、6路、23路全程均以“洛涧北”站台为界，同区域内实行2元一票制，跨区域实行3元一票制，其中公交5路、6路在“怡丰花园”和“紫砂花园”站台之间、公交23路在“怡丰花园”和“通蜀小区”站台之间按同区域收费；其余空调车线路全部执行全程2元一票制；刷卡乘车可享受相应幅度的打折优惠。本轮空调车票价季节性调整至9月30日结束。"
+        },
+        {
+          "id": "2",
+          "name": "城市公交实施夏季营运路牌",
+          "data": "2019年10月20号",
+          "title": "· 10月20日起，城市公交车票价季节性上调。公交5路，6路的聚个偶偶绝对是骄傲",
+          "content": "公交公司自5月1日起实行夏季营运路牌，调整后各公交线路的营运时间具体如下：",
+          "BrContent": [
+            {
+              "text": "1、5:30—18:00：公交4路、8路、14路-16路、20路、105路、106路、109路、110路、113路-118路、151路、152路、154路-157路"
+            },
+            {
+              "text": "2、5:30—19:30：公交9路、11路、13路、19路、23路、103路、108路和153路；"
+            },
+            {
+              "text": "3、5:30—21:00：公交2路、5路-7路、12路、101路、111路和112路；"
+            },
+            {
+              "text": "4、5:30—22:00：公交3路、10路、102路和104路；"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
